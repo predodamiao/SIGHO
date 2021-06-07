@@ -6,7 +6,6 @@
 ## SIGHO
 
   
-
 **Índice**
 
 [1. Introdução](#1-Introdução)
